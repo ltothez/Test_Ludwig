@@ -1,5 +1,9 @@
 package com.example.ludwig_test;
 
+import com.example.ludwig_test.R;
+import com.example.ludwig_test.R.layout;
+import com.example.ludwig_test.R.menu;
+
 import android.os.Bundle;
 import android.app.Activity;
 import android.view.Menu;
@@ -21,7 +25,7 @@ public class MainActivity extends Activity {
     }
     
     
-    
+
     
     
     
